@@ -1,0 +1,24 @@
+D:\vscode\Purple\Memory Game\Memory Game\bin\Debug\Memory Game.exe.config
+D:\vscode\Purple\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+D:\vscode\Purple\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+D:\vscode\Purple\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+D:\vscode\Purple\Memory Game\Memory Game\obj\Debug\Memory_Game.fmMemoryGame.resources
+D:\vscode\Purple\Memory Game\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+D:\vscode\Purple\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+D:\vscode\Purple\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+D:\vscode\Purple\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+D:\vscode\Purple\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
+D:\vscode\Purple\Memory Game\Memory Game\bin\Debug\Guna.UI2.dll
+D:\vscode\Purple\Memory Game\Memory Game\obj\Debug\Memory G.5F99EABA.Up2Date
+D:\vscode\Purple\Memory Game Project\Memory Game\bin\Debug\Memory Game.exe.config
+D:\vscode\Purple\Memory Game Project\Memory Game\bin\Debug\Memory Game.exe
+D:\vscode\Purple\Memory Game Project\Memory Game\bin\Debug\Memory Game.pdb
+D:\vscode\Purple\Memory Game Project\Memory Game\bin\Debug\Guna.UI2.dll
+D:\vscode\Purple\Memory Game Project\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+D:\vscode\Purple\Memory Game Project\Memory Game\obj\Debug\Memory_Game.fmMemoryGame.resources
+D:\vscode\Purple\Memory Game Project\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+D:\vscode\Purple\Memory Game Project\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+D:\vscode\Purple\Memory Game Project\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+D:\vscode\Purple\Memory Game Project\Memory Game\obj\Debug\Memory G.5F99EABA.Up2Date
+D:\vscode\Purple\Memory Game Project\Memory Game\obj\Debug\Memory Game.exe
+D:\vscode\Purple\Memory Game Project\Memory Game\obj\Debug\Memory Game.pdb
